@@ -1,6 +1,6 @@
 <h1>Daniel Wolter - Jr. Web Developer</h1>
 
-<img align="right" src="imagens/my_octocat2.png" alt="My octocat" width="250px">
+<img align="right" src="D-Wolter.png" alt="My octocat" width="250px">
 
 ```JavaScript
 const aboutMe = {
