@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Daniel Wolter - Jr. Web Developer</h1>
 
-<!--
-**D-Wolter/D-Wolter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="imagens/my_octocat2.png" alt="My octocat" width="250px">
 
-Here are some ideas to get you started:
+```JavaScript
+const aboutMe = {
+  name: 'Daniel Wolter',
+  age: '41 years old';
+  level: 'Junior',
+  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
+  softSkills: [
+    'creativity',
+    'leadership',
+    'organization'
+  ]
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function contatcMe() {
+  return 'Linkedin: https://www.linkedin.com/in/daniel-wolter-b85857239/';
+}
+```
+<br>
+
+<p>Desenvolvedor Web em formação no curso da Trybe. Tenho 41 anos, sou brasileiro e moro em Floriaópolis. Sou tambem Restaurador de Obras de Artes nas horas vagas</p>
+<br>
+
