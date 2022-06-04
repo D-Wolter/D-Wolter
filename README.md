@@ -21,8 +21,10 @@ function contatcMe() {
 ```
 <br>
 
-<p>Desenvolvedor Web em formação no curso da Trybe. Tenho 41 anos, sou brasileiro e moro em Floriaópolis. Sou tambem Restaurador de Obras de Artes nas horas vagas</p>
+<p>Desenvolvedor Web em formação no curso da Trybe. Tenho 41 anos, sou brasileiro e moro em Florianópolis. Sou também Restaurador de Obras de Artes nas horas vagas</p>
 <br>
+
+##
 
 <div align="center">
   <a href="https://github.com/D-Wolter">
