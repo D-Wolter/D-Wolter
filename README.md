@@ -1,6 +1,6 @@
 <h1>Daniel Wolter - Jr. Web Developer</h1>
 
-<img align="right" src="octowolter.png" alt="My octocat" width="250px">
+<img align="right" src="code.gif" alt="My octocat" width="30%">
 
 ```JavaScript
 const aboutMe = {
@@ -50,6 +50,6 @@ function contatcMe() {
  	<a href = "mailto:wolter.daniel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-wolter-b85857239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/D-Wolter/D-Wolter/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
