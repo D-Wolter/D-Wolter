@@ -12,9 +12,8 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 <!-- https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif -->
 <!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=40% />
 
-<br />
 
 **Front-End**
   [<img align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/react.gif" width="55" />](https://pt-br.reactjs.org/)
@@ -40,11 +39,6 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 **FreeTime**
   - 🎨 Sou Restaurador de Obras de Arte nos momentos livres (restauro e réplicas de esculturas e mosaicos) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf).
-
-<br />
-
-
-
 
 <br />
 
