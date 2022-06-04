@@ -38,14 +38,12 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 <br />
 
 **FreeTime**
-- 🧝‍♀️ Amo todo universo **Tolkien** e adoro jogar ***AD&D*** e ***Diablo 2***  
-- 🕹️ No meu tempo livre adoro jogar 🏇 **Read Dead Redemption 2** e competir em simuladores de 🏎️ **Fórmula 1**, ah! também sou 🎼**músico** e toco 🎸***bandolim***!.
-- 🎼 Sou fundador de um projeto de música em ambientes hospitalares, o [***Projeto Viramundo***](https://instagram.com/projeto_viramundo).
+  - 🎨 Sou Restaurador de Obras de Arte (restauro e réplicas de esculturas e mosaicos) (https://www.facebook.com/profile.php?id=100064245002972).
 
 <br />
 
 **Contato**
-- 📬  Se quiser entrar em contato só mandar um email para: ivanrafael.dev@gmail.com
+- 📬  Se quiser entrar em contato só mandar um email para: wolter.daniel@gmail.com
 - 📓  Veja meu [Currículo](https://gitconnected.com/ivanrafael-dev/resume) para mais informações.
 
 <br />
