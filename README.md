@@ -65,6 +65,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/chai.png" width="60" height="60">](https://www.chaijs.com/)
 
 
+
 ##
 
 <div align="center">
@@ -76,9 +77,8 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
   <img align="center" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Wolter#version3" alt=" Streak stats of D-Wolter" />
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=D-Wolter" alt="D-Wolter" />
-</p>
-<p>
+  <img src="https://komarev.com/ghpvc/?username=D-Wolter" alt="D-Wolter" /></p>
+
   
   ##
  
