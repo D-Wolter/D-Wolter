@@ -7,7 +7,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 [<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="50" height="50">](https://github.com/D-Wolter)
 [<img src="https://camo.githubusercontent.com/109977a284aefe0c20628563ac58b29776daad72fdaf4bdbff46cbc34c922a03/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313231312f504e472f3531322f313439313537393630322d79756d6d696e6b79736f6369616c6d6564696133365f38333036372e706e67" width="50" height="50">](https://www.instagram.com/wolterdaniel/)
 [<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="50" height="50">](https://www.linkedin.com/in/daniel-wolter-b85857239/)
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)
+[<img src="https://github.com/D-Wolter/D-Wolter/blob/main/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)
 
 <!-- https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif -->
 <!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
@@ -15,8 +15,8 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=40% />
 
 
-**Front-End**
-  [<img align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/react.gif" width="55" />](https://pt-br.reactjs.org/)
+**Front-End**[<img  align="center" alt="GIF" src="https://github.com/D-Wolter/D-Wolter/blob/main/react.gif" width="55" />](https://pt-br.reactjs.org/)
+  
 
 - 👨‍🎓 Desenvolvedor front-end júnior, utilizo **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais.
 - 📖 Tenho conhecimento em **Redux**, **Hooks** e **Context-API**, ferramentas que são utilizadas para ajudar no gerenciamento de *estado da aplicação* de aplicações **React**, que possibilitam passar dados entre a árvore de componentes sem precisar passar props manualmente em cada nível.
@@ -25,7 +25,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 </br>
 
 **Back-End**
-  [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/NODEJS.gif" width="60" />](https://nodejs.org/en/)
+  [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/D-Wolter/D-Wolter/blob/main/NODEJS.gif" width="60" />](https://nodejs.org/en/)
 - 🔙 Desenvolvedor back-end júnior, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
 - 🥬 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisões de responsabilidades por camadas, como o *model*, *service* e *controller*.
 - 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**.
