@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos e testes de ensaios em diversas linguagens de programação. </br>
+Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos e testes de ensaios em diversas linguagens. </br>
 
 **Contato 🔗**
 - 📬  Se quiser entrar em contato só mandar um email para: wolter.daniel@gmail.com</br>
