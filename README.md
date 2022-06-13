@@ -1,13 +1,18 @@
 ### Hi there 👋
 Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos e testes de ensaios em diversas linguagens. </br>
 
+"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
+                <br><br>
+O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</h2><br>
+
+[<img src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)<br><br>
 **Contato 🔗**
 - 📬  Se quiser entrar em contato só mandar um email para: wolter.daniel@gmail.com</br>
 
 
 [<img src="https://camo.githubusercontent.com/109977a284aefe0c20628563ac58b29776daad72fdaf4bdbff46cbc34c922a03/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313231312f504e472f3531322f313439313537393630322d79756d6d696e6b79736f6369616c6d6564696133365f38333036372e706e67" width="50" height="50">](https://www.instagram.com/wolterdaniel/)
 [<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="50" height="50">](https://www.linkedin.com/in/daniel-wolter-b85857239/)
-[<img src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)
+
 
 <!-- https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif -->
 <!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
