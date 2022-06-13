@@ -4,7 +4,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 **Contato 🔗**
 - 📬  Se quiser entrar em contato só mandar um email para: wolter.daniel@gmail.com</br>
 
-[<img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" width="50" height="50">](https://github.com/D-Wolter)
+
 [<img src="https://camo.githubusercontent.com/109977a284aefe0c20628563ac58b29776daad72fdaf4bdbff46cbc34c922a03/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313231312f504e472f3531322f313439313537393630322d79756d6d696e6b79736f6369616c6d6564696133365f38333036372e706e67" width="50" height="50">](https://www.instagram.com/wolterdaniel/)
 [<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="50" height="50">](https://www.linkedin.com/in/daniel-wolter-b85857239/)
 [<img src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)
@@ -34,7 +34,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 <br />
 
 **FreeTime**
-  - 🎨 Sou Restaurador de Obras de Arte nos momentos livres (restauro e réplicas de esculturas e mosaicos) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). - [🔗Página Face](https://www.facebook.com/profile.php?id=100064245002972).
+  - 🎨 Sou Restaurador de Obras de Arte nos momentos livres (restauro e réplicas de esculturas e mosaicos) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). - [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
 
 <br />
 
