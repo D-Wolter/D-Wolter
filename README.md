@@ -1,11 +1,11 @@
 ### Hi there 👋
-Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos e testes de ensaios em diversas linguagens. </br>
-
+Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos e testes de ensaios em diversas linguagens. </br><br>
+[<img src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)<br>
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
                 <br><br>
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</h2><br>
 
-[<img src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)<br><br>
+
 **Contato 🔗**
 - 📬  Se quiser entrar em contato só mandar um email para: wolter.daniel@gmail.com</br>
 
