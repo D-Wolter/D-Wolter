@@ -28,7 +28,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 **Back-End**
   [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/NODEJS.gif" width="60" />](https://nodejs.org/en/)
-- 🔙 Desenvolvedor Front-End júnior, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
+- 🔙 Desenvolvedor Back-End júnior, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
 - 🥬 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisões de responsabilidades por camadas, como o *model*, *service* e *controller*.
 - 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**.
 - 🎆 **TypeScript** tem me deixado *fascinado* 💙!!, bora dominar essa linguagem super importante para seguir pro *próximo nível* 🚀!!
