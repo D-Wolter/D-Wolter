@@ -12,7 +12,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 
 
-**Front-End**[<img  align="center" alt="GIF" src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/react.gif" width="55" />](https://pt-br.reactjs.org/)
+**Front-End**
   
 
 - 👨‍🎓 Desenvolvedor front-end júnior, utilizo **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais.
@@ -22,7 +22,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 </br>
 
 **Back-End**
-  [<img style="margin: 10px" align="center" alt="GIF" src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/NODEJS.gif" width="60" />](https://nodejs.org/en/)
+  
 - 🔙 Desenvolvedor Back-End júnior, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
 - 🥬 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisões de responsabilidades por camadas, como o *model*, *service* e *controller*.
 - 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**.
