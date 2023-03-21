@@ -39,6 +39,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 **Linguagens e Ferramentas 🔗**
 <br />
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,vscode,ts,redux,react,py,nextjs,nodejs,materialui,linux,git,express,docker,bash,jest,mongodb,mysql,sequelize,)](https://skillicons.dev)
 <br />
 
 [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png" width="60" height="60">](https://www.linux.org/)
