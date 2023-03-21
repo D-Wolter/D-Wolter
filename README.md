@@ -83,12 +83,8 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 
 ##
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=D-Wolter&show_icons=true&count_private=true&hide_border=true&title_color=016b51&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="D-Wolter github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Wolter&layout=compact&hide_border=true&title_color=016b51&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-
+![D-wolter's Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=D-wolter&show_icons=true&layout=compact&theme=yeblu&bg_color=DEG,13505B,0c7489&text_color=d7d9ce)
+![D-wolter's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-wolter&show_icons=true&theme=yeblu&bg_color=DEG,13505B,0c7489&text_color=d7d9ce)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11a36a&height=120&section=footer"/>
 
