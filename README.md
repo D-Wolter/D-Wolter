@@ -79,24 +79,6 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
   <img src="https://img.shields.io/badge/ANY OTHER TOOL THAT I HAVE TO LEARN HOW TO USE, IF NEEDED TO SOLVE A PROBLEM-FFFF64?style=for-the-badge" alt="LEARNING SKILL" />
 </span>
 
-**Front-End**
-  
-
-- 👨‍🎓 Desenvolvedor front-end júnior, utilizo **React**, uma *biblioteca **JavaScript*** de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo **Facebook**, **Instagram**, outras empresas e uma comunidade de desenvolvedores individuais.
-- 📖 Tenho conhecimento em **Redux**, **Hooks** e **Context-API**, ferramentas que são utilizadas para ajudar no gerenciamento de *estado da aplicação* de aplicações **React**, que possibilitam passar dados entre a árvore de componentes sem precisar passar props manualmente em cada nível.
-
-
-</br>
-
-**Back-End**
-  
-- 🔙 Desenvolvedor Back-End júnior, trabalho com ferramentas como o **NodeJS**, utilizando o *framework* ***Express***, que fornece recursos para construção de servidores web modernos.
-- 🥬 Em aplicações **Node.js** e **Express**, busco utilizar um *padrão arquitetural* muito famoso no mercado: o **MSC**!, que utiliza divisões de responsabilidades por camadas, como o *model*, *service* e *controller*.
-- 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**.
-- 🎆 **TypeScript** tem me deixado *fascinado* 💙!!, bora dominar essa linguagem super importante para seguir pro *próximo nível* 🚀!!
-
-
-<br />
 
 **Linguagens e Ferramentas 🔗**
 <br />
