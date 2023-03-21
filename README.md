@@ -1,8 +1,8 @@
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png"/>](https://www.betrybe.com/)
 
 **Trybe** \
-[**Trybe**](https://www.betrybe.com/) • Tempo integral - 2022 / 2023\
-Estudante de Desenvolvimento Web \
+[**Trybe**](https://www.betrybe.com/) • Full Time - 2022 / 2023\
+Web Development Student \
 <br/>
 Hello, my name is Daniel Wolter, I'm from Florianópolis-Brasil, Full Stack Web Development Student at Trybe, this is my repository for study purposes.</br><br>
 
