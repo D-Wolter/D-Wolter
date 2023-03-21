@@ -93,7 +93,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis, Full Stack Web Develop
   
   <br />
 
-**FreeTime** - 🎨 Sou Restaurador de Obras de Arte nos momentos livres (restauro e réplicas de esculturas e mosaicos) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). - [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
+**FreeTime** - 🎨 I am Restorer of Works of Art in my free time (restoration and replicas of sculptures and mosaics) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). - [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
 
 
   
