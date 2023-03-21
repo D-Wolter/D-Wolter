@@ -14,7 +14,8 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 <!-- https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif -->
 <!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
-
+<br/>
+<h3> 🔧 Tech and tools that I know:<h3>
 
 <span>
   <img src="https://img.shields.io/badge/Base:-E6E6E6?style=for-the-badge" alt="Base" />
