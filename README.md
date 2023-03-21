@@ -34,10 +34,6 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 - 📑 Possuo conhecimentos nos *bancos de dados* **MySQL** e **MongoDB**.
 - 🎆 **TypeScript** tem me deixado *fascinado* 💙!!, bora dominar essa linguagem super importante para seguir pro *próximo nível* 🚀!!
 
-<br />
-
-**FreeTime**
-  - 🎨 Sou Restaurador de Obras de Arte nos momentos livres (restauro e réplicas de esculturas e mosaicos) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). - [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
 
 <br />
 
@@ -79,6 +75,12 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 
 <div align="center">
+  
+  <br />
+
+**FreeTime**
+  - 🎨 Sou Restaurador de Obras de Arte nos momentos livres (restauro e réplicas de esculturas e mosaicos) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). - [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
+
 
   
 
