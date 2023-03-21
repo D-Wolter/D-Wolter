@@ -10,7 +10,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 <a href="https://linkedin.com/in/dev-daniel-wolter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lucco-alves" height="40" width="40" /></a>
 
 
-**Email🔗 ** wolter.daniel@gmail.com
+**Email🔗** wolter.daniel@gmail.com
 
 <!-- https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif -->
 <!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
