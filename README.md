@@ -79,14 +79,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 
 <div align="center">
-<div align="center">
-  <a href="https://github.com/D-Wolter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-Wolter&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Wolter&layout=compact&langs_count=7&theme=white"/>
-</div>
-<p align="center">
-  <img align="center" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Wolter#version3" alt=" Streak stats of D-Wolter" />
-</p>
+
   
 
 <h3 align="center">Visão geral / Overview:</h3>
