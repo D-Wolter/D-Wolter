@@ -7,6 +7,7 @@ Estudante de Desenvolvimento Web \
 Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos. </br><br>
 
 **LinkedIn** 
+<a href="https://linkedin.com/in/dev-daniel-wolter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lucco-alves" height="40" width="40" /></a>
 [<img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="50" height="50">](https://www.linkedin.com/in/dev-daniel-wolter/)
 <div>
 
