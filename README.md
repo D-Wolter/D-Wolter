@@ -4,7 +4,7 @@
 [**Trybe**](https://www.betrybe.com/) • Tempo integral - 2022 / 2023\
 Estudante de Desenvolvimento Web \
 <br/>
-Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos. </br><br>
+Hello, my name is Daniel Wolter, I'm from Florianópolis, Full Stack Web Development Student at Trybe, this is my repository for study purposes.</br><br>
 
 **LinkedIn** 
 <a href="https://linkedin.com/in/dev-daniel-wolter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lucco-alves" height="40" width="40" /></a>
