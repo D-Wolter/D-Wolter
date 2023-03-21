@@ -78,8 +78,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
   
   <br />
 
-**FreeTime**
-  - 🎨 Sou Restaurador de Obras de Arte nos momentos livres (restauro e réplicas de esculturas e mosaicos) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). - [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
+**FreeTime** - 🎨 Sou Restaurador de Obras de Arte nos momentos livres (restauro e réplicas de esculturas e mosaicos) [Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). - [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
 
 
   
