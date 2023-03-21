@@ -72,7 +72,7 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=016b51&height=120&section=footer"/>
 
 
 <div align="center">
