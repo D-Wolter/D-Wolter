@@ -82,22 +82,6 @@ Olá, meu nome é **Daniel Wolter**, sou de Florianópolis, Estudante de Desenvo
 
   
 
-<h3 align="center">Visão geral / Overview:</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=D-Wolter" alt="D-Wolter" /></a> </p>
-
-
-
-
-  
-  ##
- 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D-Wolter" alt="D-Wolter" /></p>
-
-  
-
 
 
 
