@@ -100,9 +100,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
       <h2 align="center"><a href="https://github.com/D-Wolter/Restaurante-Arvoredo">Restaurant Arvoredo Page</a></h2>
       <a href="https://github.com/D-Wolter/Restaurante-Arvoredo/#/"><img width="100%" src="./Images/arvoredo.png" alt="Restaurant-Arvoredo" /></a>
       <br>
-      <br>
-          <br>
-          <br>
+      <br
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>
       <p>: Restaurant Arvoredo Page.</p>
     </td>
@@ -112,7 +110,6 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet">Project-Trybe_Wallet</a></h2>
       <a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe_Wallet" /></a>
-      <br>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
