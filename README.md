@@ -90,7 +90,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/D-Wolter.github.io">Portfolio</a></h2>
-      <a href="https://D-Wolter.github.io/"><img width="100%" src="./Images/portfolio-page.png" alt="Portfólio" /></a>
+      <a href="https://D-Wolter.github.io/"><img width="100%" src="./Images/port.png" alt="Portfólio" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript</em></p>
