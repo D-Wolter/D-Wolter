@@ -100,18 +100,16 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
       <a href="https://D-Wolter.github.io/"><img width="100%" src="./Images/portfolio-page.png" alt="Portfólio" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
-      <p>:us: My personal portfolio.</p>
-      <p>:brazil: Meu portfólio pessoal.</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript</em></p>
+      <p>: My personal portfolio.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/raphaelalmeidamartins.github.io">Portfolio</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/"><img width="100%" src="./imagens/portfolio.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://taotaodoce.vercel.app/">App-Recipes</a></h2>
+      <a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas"><img width="100%" src="./Images/tão-tão-doce.png" alt="Project-App-Recipes" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
-      <p>:us: My personal portfolio.</p>
-      <p>:brazil: Meu portfólio pessoal.</p>
+      <p>: App Recipes - Front-End.</p>
     </td>
   </tr>
 
