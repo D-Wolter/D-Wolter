@@ -90,7 +90,6 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 
 <div align="center">
   
-  
 <h1 align="center">Main Projects</h1>
 
 <table>
@@ -112,6 +111,23 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
       <p>: App Recipes - Front-End.</p>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet">Project-Trybe_Wallet</a></h2>
+      <a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><img width="100%" src="./Images/Screenshot_334.png" alt="Project-Trybe_Wallet" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <p>: Trybe-Wallet - Front-End.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/D-Wolter/Restaurante-Arvoredo">Restaurant Arvoredo Page</a></h2>
+      <a href="https://github.com/D-Wolter/Restaurante-Arvoredo/#/"><img width="100%" src="./Images/Screenshot_341.png" alt="Restaurant-Arvoredo" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript</em></p>
+      <p>: Restaurant Arvoredo Page.</p>
+    </td>
+  </tr>
 </table>
 <br>
-  
