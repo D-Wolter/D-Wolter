@@ -112,7 +112,6 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
       <p>: App Recipes - Front-End.</p>
     </td>
   </tr>
-
 </table>
 <br>
   
