@@ -40,11 +40,6 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Shield" />
 </span><br />
 <span>
-  <img src="https://img.shields.io/badge/FullStack:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="FullStack" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS Shield" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix Shield" />
-</span><br />
-<span>
   <img src="https://img.shields.io/badge/Databases:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Databases" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma Shield" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Shield" />
@@ -63,8 +58,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai Shield" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest Shield" />
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white" alt="Testing_Library Shield" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright Shield" />
-</span><br />
+ </span><br />
 <span>
   <img src="https://img.shields.io/badge/Other:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Other" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Shield" />
