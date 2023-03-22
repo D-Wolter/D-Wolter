@@ -109,7 +109,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
       <br>
           <br>
           <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>
       <p>: Restaurant Arvoredo Page.</p>
     </td>
     
