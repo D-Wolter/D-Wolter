@@ -71,9 +71,8 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 <span>
   <img src="https://img.shields.io/badge/ANY OTHER TOOL THAT I HAVE TO LEARN HOW TO USE, IF NEEDED TO SOLVE A PROBLEM-FFFF64?style=for-the-badge" alt="LEARNING SKILL" />
 </span>
+</br>
 
-</br><br>
-<br/>
 
 ##
 ![D-wolter Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=D-wolter&show_icons=true&layout=compact&theme=yeblu&bg_color=DEG,11a36a,0c7489&text_color=d7d9ce)
