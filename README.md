@@ -73,7 +73,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 </span>
 
 
-
+<br/>
 
 ##
 ![D-wolter Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=D-wolter&show_icons=true&layout=compact&theme=yeblu&bg_color=DEG,11a36a,0c7489&text_color=d7d9ce)
