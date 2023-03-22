@@ -98,7 +98,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
     </td>
         <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Restaurante-Arvoredo">Restaurant Arvoredo Page</a></h2>
-      <a href="https://github.com/D-Wolter/Restaurante-Arvoredo/#/"><img width="100%" src="./Images/Screenshot_341.png" alt="Restaurant-Arvoredo" /></a>
+      <a href="https://github.com/D-Wolter/Restaurante-Arvoredo/#/"><img width="100%" src="./Images/arvoredo.png" alt="Restaurant-Arvoredo" /></a>
       <br>
       <br>
           <br>
