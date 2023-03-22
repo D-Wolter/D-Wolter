@@ -120,6 +120,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
       <a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><img width="100%" src="./Images/Screenshot_334.png" alt="Project-Trybe_Wallet" /></a>
       <br>
       <br>
+      <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
       <p>: Trybe-Wallet - Front-End.</p>
     </td>
