@@ -111,7 +111,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet">Project-Trybe_Wallet</a></h2>
-      <a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><img width="100%" src="./Images/wallet.pdf" alt="Project-Trybe_Wallet" /></a>
+      <a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe_Wallet" /></a>
       <br>
       <br>
       <br>
