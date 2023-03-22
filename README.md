@@ -79,15 +79,17 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 ##
 ![D-wolter Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=D-wolter&show_icons=true&layout=compact&theme=yeblu&bg_color=DEG,11a36a,0c7489&text_color=d7d9ce)
 ![D-wolter GitHub stats](https://github-readme-stats.vercel.app/api?username=D-wolter&show_icons=true&theme=yeblu&bg_color=DEG,11a36a,0c7489&text_color=d7d9ce)
+  
+    <br />
+
+**FreeTime** - 🎨 I am Restorer of Works of Art (restoration and replicas of sculptures and mosaics) [🔗Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11a36a&height=120&section=footer"/>
 
 
 <div align="center">
   
-  <br />
 
-**FreeTime** - 🎨 I am Restorer of Works of Art (restoration and replicas of sculptures and mosaics) [🔗Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
 
 
   
