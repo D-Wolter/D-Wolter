@@ -90,6 +90,93 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 
 <div align="center">
   
+  
+<h1 align="center">Main Projects</h1>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Sonic Trumps</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript</em></p>
+      <p>:us: Top Trumps-style card game with Sonic characters</p>
+      <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/raphaelalmeidamartins.github.io">Portfolio</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/"><img width="100%" src="./imagens/portfolio.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <p>:us: My personal portfolio.</p>
+      <p>:brazil: Meu portfólio pessoal.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/fullstack-bank">Full Stack Bank</a></h2>
+      <a href="https://github.com/raphaelalmeidamartins/fullstack-bank"><img width="100%" src="./imagens/fullstack-bank.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Next.js, Sass, TypesCript, Node.js, Express.js, PostgreSQL, Sequelize.js, Docker, Cypress, Mocha, Chai, Sinon Swagger UI</em></p>
+      <p>:us: Full stack digital wallet application developed with Next.js and Node.js</p>
+      <p>:brazil: Aplicação full stack dockerizada de carteira digital desenvolida em Next.js e Node.js</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/hackathon-trybe-wine">Wine Landing Page</a></h2>
+      <a href="https://raphaelmartins.dev/hackathon-trybe-wine/#/"><img width="100%" src="./imagens/hackathon.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional-based components), Redux, Redux Toolkit, Redux thunk, HTML, CSS, Styled Components, Material UI, JavaScript, Mobile First</em></p>
+      <p>:us: React landing page developed with React for the Hackathon promoted by Trybe and Wine</p>
+      <p>:brazil: Landing page desenvolvida em React para o Hackathon organizado pela Trybe em parceria com a empresa Wine</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="./imagens/to-do-list.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
+      <p>:us: To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
+      <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
+      <p>:us: Trivia game React application using a public API</p>
+      <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/mongodb-car-shop">MongoDB Car Shop</a></h2>
+      <a href="https://github.com/raphaelalmeidamartins/mongodb-car-shop"><img width="100%" src="./imagens/car-shop.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> TypeScript, Node.js, Express.js, MongoDB, Mongoose, Mocha, Chai, Sinon</em></p>
+      <p>:us: RESTful API developed with with MongoDB database using OOP and SOLID principles.</p>
+      <p>:brazil: API RESTful desenvolvida com o banco de dados MongoDB utilizando princípios POO e SOLID.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/tests-with-react-testing-library">Tests with RTL</a></h2>
+      <a href="https://github.com/raphaelalmeidamartins/tests-with-react-testing-library"><img width="100%" src="./imagens/test-with-rtl.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
+      <p>:us: Front-end testing project with React Testing Library.</p>
+      <p>:brazil: Projeto de testes no Front-end com a React Testing Library.</p>
+    </td>
+  </tr>
+</table>
+<br>
+  
 
 
 
