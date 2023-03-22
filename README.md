@@ -12,8 +12,7 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 
 **Email🔗** wolter.daniel@gmail.com
 
-<!-- https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif -->
-<!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
+##
 <br/>
 <h3> 🔧 Tech and tools that I know:<h3>
 
