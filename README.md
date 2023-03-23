@@ -5,8 +5,8 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 
 
 **Email🔗** wolter.daniel@gmail.com
-  <br />
-
+ <br>
+ <br>
 **FreeTime** - 🎨 I am Restorer of Works of Art (restoration of sculptures and mosaics) [🔗Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). [🔗FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
 ##
 <br/>
