@@ -119,10 +119,10 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
       <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/">App Recipes Mobile</a></h2>
       <a href="https://taotaodoce.vercel.app/"><img width="100%" src="./Images/doce.png" alt="Project-App-Recipes" /></a>
       <br>
-      <h2<a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/"><strong> Repository</strong> - App-Recipes</a></h2>
-      <br>
       <h2<a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/">Repositorie - App-Recipes</a></h2>
       <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <br>
+      <h2<a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/"><strong> Repository</strong></a></h2>
     </td>
   </tr>
 </table>
