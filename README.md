@@ -57,7 +57,6 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Shield" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Shield" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON Shield" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Shield" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Shield" />
   <img src="https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=ConventionalCommits&logoColor=white" alt="Conventional Commits Shield" />
 </span><br />
