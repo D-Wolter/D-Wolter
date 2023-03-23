@@ -87,14 +87,14 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 <table>
     <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet">Project-Trybe_Wallet</a></h2>
+      <h2 align="center"><a href="https://wolterwallet.vercel.app">App Wolter Wallet</a></h2>
       <a href="https://wolterwallet.vercel.app"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe_Wallet" /></a>
       <br>
       <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
       <h4><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><strong> Repository</strong> - App-Front-End - Wolter Wallet</a></h4>
     </td>
 <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/">App Recipes Mobile</a></h2>
+      <h2 align="center"><a href="https://taotaodoce.vercel.app">App Recipes Mobile</a></h2>
       <a href="https://taotaodoce.vercel.app/"><img width="100%" src="./Images/doce.png" alt="Project-App-Recipes" /></a>
       <br>
       <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
