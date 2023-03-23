@@ -85,6 +85,22 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
 <h1 align="center">Main Projects</h1>
 
 <table>
+    <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet">Project-Trybe_Wallet</a></h2>
+      <a href="https://wolterwallet.vercel.app"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe_Wallet" /></a>
+      <br>
+      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
+      <h4><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><strong> Repository</strong> - App-Front-End - Wolter Wallet</a></h4>
+    </td>
+<td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/">App Recipes Mobile</a></h2>
+      <a href="https://taotaodoce.vercel.app/"><img width="100%" src="./Images/doce.png" alt="Project-App-Recipes" /></a>
+      <br>
+      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
+      <h4><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/"><strong> Repository</strong> - App-Front-End -  Recipes Mobile</a></h4>
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/D-Wolter.github.io">Portfolio</a></h2>
@@ -103,22 +119,6 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
       <h4><a href="https://github.com/D-Wolter/Restaurante-Arvoredo"><strong> Repository</strong> - Restaurant Arvoredo Site</a></h4>
     </td>
     
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet">Project-Trybe_Wallet</a></h2>
-      <a href="https://wolterwallet.vercel.app"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe_Wallet" /></a>
-      <br>
-      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
-      <h4><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><strong> Repository</strong> - App-Front-End - Wolter Wallet</a></h4>
-    </td>
-<td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/">App Recipes Mobile</a></h2>
-      <a href="https://taotaodoce.vercel.app/"><img width="100%" src="./Images/doce.png" alt="Project-App-Recipes" /></a>
-      <br>
-      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
-      <h4><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/"><strong> Repository</strong> - App-Front-End -  Recipes Mobile</a></h4>
-    </td>
   </tr>
 </table>
 <br>
