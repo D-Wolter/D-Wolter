@@ -1,4 +1,4 @@
-Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Development Student at Trybe.</br><br>
+Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Development Student at Trybe.</br><br>
 
 **LinkedIn🔗** 
 <a href="https://linkedin.com/in/dev-daniel-wolter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lucco-alves" height="40" width="40" /></a>
