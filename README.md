@@ -1,4 +1,5 @@
-Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Development Student at Trybe.</br><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11a36a&height=120&section=header"/>Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Development Student at Trybe.</br><br>
 
 **LinkedIn🔗** 
 <a href="https://linkedin.com/in/dev-daniel-wolter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lucco-alves" height="40" width="40" /></a>
@@ -77,7 +78,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
  ##
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11a36a&height=120&section=header"/>
+
 
 
 <div align="center">
