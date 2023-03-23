@@ -89,15 +89,15 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/D-Wolter.github.io">Portfolio</a></h2>
       <a href="https://D-Wolter.github.io/"><img width="100%" src="./Images/port.png" alt="Portfólio" /></a>
-           <br>
-      <p><em><strong> Tools/Methodologies:</strong>HTML, CSS</em></p>
       <br>
+      <br>
+      <p><em><strong> Tools/Methodologies:</strong>HTML, CSS</em></p>
       <h4><a href="https://D-Wolter.github.io"><strong> Repository</strong> - My Personal Portfolio</a></h4>
     </td>
         <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Restaurante-Arvoredo">Restaurant Arvoredo Page</a></h2>
       <a href="https://github.com/D-Wolter/Restaurante-Arvoredo/#/"><img width="100%" src="./Images/arvoredo.png" alt="Restaurant-Arvoredo" /></a>
-            <br>
+      <br>
       <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, JavaScript</em></p>
       <h4><a href="https://github.com/D-Wolter/Restaurante-Arvoredo"><strong> Repository</strong> - Restaurant Arvoredo Site</a></h4>
     </td>
@@ -106,10 +106,10 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet">Project-Trybe_Wallet</a></h2>
-      <a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe_Wallet" /></a>
-            <br>
+      <a href="https://wolterwallet.vercel.app"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe_Wallet" /></a>
+      <br>
       <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
-      <h4><a href="https://wolterwallet.vercel.app/"><strong> Repository</strong> - App-Front-End - Wolter Wallet</a></h4>
+      <h4><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><strong> Repository</strong> - App-Front-End - Wolter Wallet</a></h4>
     </td>
 <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/">App Recipes Mobile</a></h2>
