@@ -49,7 +49,6 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Shield" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha Shield" />
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai Shield" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest Shield" />
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white" alt="Testing_Library Shield" />
  </span><br />
 <span>
@@ -57,7 +56,6 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Shield" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Shield" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON Shield" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Shield" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Shield" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Shield" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Shield" />
@@ -91,18 +89,16 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/D-Wolter.github.io">Portfolio</a></h2>
       <a href="https://D-Wolter.github.io/"><img width="100%" src="./Images/port.png" alt="Portfólio" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, JavaScript</em></p>
-      <p>: My personal portfolio.</p>
+           <br>
+      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <h2<a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/"><strong> Repository</strong> - App Recipes Mobile</a></h2>
     </td>
         <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Restaurante-Arvoredo">Restaurant Arvoredo Page</a></h2>
       <a href="https://github.com/D-Wolter/Restaurante-Arvoredo/#/"><img width="100%" src="./Images/arvoredo.png" alt="Restaurant-Arvoredo" /></a>
-      <br>
-      <br
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>
-      <p>: Restaurant Arvoredo Page.</p>
+            <br>
+      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <h2<a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/"><strong> Repository</strong> - App Recipes Mobile</a></h2>
     </td>
     
   </tr>
@@ -110,10 +106,9 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet">Project-Trybe_Wallet</a></h2>
       <a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe_Wallet" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
-      <p>: Trybe-Wallet - Front-End.</p>
+            <br>
+      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <h2<a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/"><strong> Repository</strong> - App Recipes Mobile</a></h2>
     </td>
 <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/">App Recipes Mobile</a></h2>
