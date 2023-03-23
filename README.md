@@ -103,12 +103,12 @@ Hello, my name is Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web 
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/D-Wolter/D-Wolter.github.io">Portfolio</a></h2>
+      <h2 align="center"><a href="https://D-Wolter.github.io/">Portfolio</a></h2>
       <a href="https://D-Wolter.github.io/"><img width="100%" src="./Images/port.png" alt="Portfólio" /></a>
       <br>
       <br>
       <p><em><strong> Tools/Methodologies:</strong>HTML, CSS</em></p>
-      <h4><a href="https://D-Wolter.github.io"><strong> Repository</strong> - My Personal Portfolio</a></h4>
+      <h4><a href="https://github.com/D-Wolter/D-Wolter.github.io"><strong> Repository</strong> - My Personal Portfolio</a></h4>
     </td>
         <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/D-Wolter/Restaurante-Arvoredo">Restaurant Arvoredo Page</a></h2>
