@@ -19,7 +19,6 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Shield" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Shield" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Shield" />
-  <img src="https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=ConventionalCommits&logoColor=white" alt="Conventional Commits Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/BackEnd:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="BackEnd" />
@@ -60,7 +59,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON Shield" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Shield" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Shield" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Shield" />
+  <img src="https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=ConventionalCommits&logoColor=white" alt="Conventional Commits Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/ANY OTHER TOOL THAT I HAVE TO LEARN HOW TO USE, IF NEEDED TO SOLVE A PROBLEM-FFFF64?style=for-the-badge" alt="LEARNING SKILL" />
