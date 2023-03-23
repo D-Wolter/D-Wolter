@@ -7,8 +7,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
 
 **Email🔗** wolter.daniel@gmail.com
  <br>
- <br>
-**FreeTime** - 🎨 I’m Restorer of Art (restoration of sculptures and mosaics) [🔗Restorer-Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). [🔗Restorer-FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
+
 ##
 <br/>
 <h3> 🔧 Tech and tools that I know:<h3>
@@ -74,7 +73,8 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
   
 ![D-wolter Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=D-wolter&show_icons=true&layout=compact&theme=yeblu&bg_color=DEG,11a36a,0c7489&text_color=d7d9ce)
 ![D-wolter GitHub stats](https://github-readme-stats.vercel.app/api?username=D-wolter&show_icons=true&theme=yeblu&bg_color=DEG,11a36a,0c7489&text_color=d7d9ce)
-  
+   <br>
+**FreeTime** - 🎨 I’m Restorer of Art (restoration of sculptures and mosaics) [🔗Restorer-Portfólio](https://github.com/D-Wolter/D-Wolter/blob/main/Portfolio_Daniel_Wolter_Martins.pdf). [🔗Restorer-FaceBook](https://www.facebook.com/profile.php?id=100064245002972).
  ##
 
 
