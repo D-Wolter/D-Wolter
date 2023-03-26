@@ -104,7 +104,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://d-wolter-github-io.vercel.app//">Portfolio</a></h2>
-      <a href="https://d-wolter-github-io.vercel.app//"><img width="100%" src="./Images/Screenshot_11.png" alt="Portfólio" /></a>
+      <a href="https://d-wolter-github-io.vercel.app//"><img width="100%" src="./Images/Screenshot_13.png" alt="Portfólio" /></a>
       <br>
       <br>
       <p><em><strong> Tools/Methodologies:</strong> HTML, CSS</em></p>
