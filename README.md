@@ -7,7 +7,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
 
 **Email🔗** wolter.daniel@gmail.com
  <br>
- <br>
+
 
 ##
 **HackerRank Exercises🔗** 
