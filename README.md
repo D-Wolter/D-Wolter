@@ -67,7 +67,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
 </span>
 </br>
  <br>
- **HackerRank Exercises🔗**  
+ **HackerRank_Exercises🔗**  
  <a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src="./Images/hackerrank.svg" alt="@wolter_daniel" height="50" width="60" /></a>
 
 
