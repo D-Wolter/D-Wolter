@@ -7,7 +7,8 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
 
 **Email🔗** wolter.daniel@gmail.com
  <br>
-
+**HakerHank Exercises🔗** 
+ <a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src="./Images/hackerrank.svg" alt="@wolter_daniel" height="30" width="40" /></a>
 ##
 <br/>
 <h3> 🔧 Tech and tools that I know:<h3>
@@ -67,8 +68,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
 
 
 ##
-**HakerHank Exercises🔗** 
- <a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src="./Images/hackerrank.svg" alt="@wolter_daniel" height="30" width="40" /></a>
+
   <br />
   
 ![D-wolter Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=D-wolter&show_icons=true&layout=compact&theme=yeblu&bg_color=DEG,11a36a,0c7489&text_color=d7d9ce)
