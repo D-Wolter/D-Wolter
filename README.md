@@ -9,7 +9,8 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
  <br>
  <br>
 **HakerHank Exercises🔗** 
- <a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src="./Images/hackerrank.svg" alt="@wolter_daniel" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src="./Images/hackerrank.svg" alt="@wolter_daniel" height="5
+ 0" width="60" /></a>
 ##
 <br/>
 <h3> 🔧 Tech and tools that I know:<h3>
