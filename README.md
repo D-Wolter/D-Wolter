@@ -10,8 +10,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
 
 
 ##
-**HackerRank Exercises🔗** 
- <a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src="./Images/hackerrank.svg" alt="@wolter_daniel" height="50" width="60" /></a>
+
 <br/>
 <h3> 🔧 Tech and tools that I know:<h3>
 
@@ -67,6 +66,8 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
   <img src="https://img.shields.io/badge/ANY OTHER TOOL THAT I HAVE TO LEARN HOW TO USE, IF NEEDED TO SOLVE A PROBLEM-FFFF64?style=for-the-badge" alt="LEARNING SKILL" />
 </span>
 </br>
+ **HackerRank Exercises🔗** 
+ <a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src="./Images/hackerrank.svg" alt="@wolter_daniel" height="50" width="60" /></a>
 
 
 ##
