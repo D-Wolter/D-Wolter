@@ -11,7 +11,7 @@ Hi, I’m Daniel Wolter, I'm from Florianópolis-Brazil, Full Stack Web Developm
 
 ##
 
-<br/>
+
 <h3> 🔧 Tech and tools that I know:<h3>
 
 <span>
