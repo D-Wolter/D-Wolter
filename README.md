@@ -1,5 +1,5 @@
 
-Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Developer**.<a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src=".Images/hackerrank.svg" alt="Daniel-Wolter" height="40" width="40" /></a>
+Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Developer**.<a href="https://www.hackerrank.com/wolter_daniel" target="blank"><img align="center" src="./Images/hackerrank.svg" alt="Daniel-Wolter" height="40" width="40" /></a>
 
 **LinkedIn🔗** 
 <a href="https://linkedin.com/in/dev-daniel-wolter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Daniel-Wolter" height="40" width="40" /></a>
