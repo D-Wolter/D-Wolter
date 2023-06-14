@@ -87,7 +87,7 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
   
 <h1 align="center">Main Projects</h1>
 
-<table>
+<!-- <table>
     <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://wolterwallet.vercel.app">App Trybe Wallet</a></h2>
@@ -120,7 +120,7 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
       <br>
       <p><em><strong> Tools/Methodologies:</strong> HTML, CSS</em></p>
       <h4><a href="https://github.com/D-Wolter/Restaurante-Arvoredo"><strong> Repository</strong> - Restaurant Arvoredo Site</a></h4>
-    </td>
+    </td> -->
     
   </tr>
 </table>
