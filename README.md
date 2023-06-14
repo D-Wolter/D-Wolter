@@ -85,7 +85,7 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
 
 <div align="center">
   
-<h1 align="center">Main Projects</h1>
+<!-- <h1 align="center">Main Projects</h1> -->
 
 <!-- <table>
     <tr>
