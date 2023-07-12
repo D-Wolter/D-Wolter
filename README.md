@@ -77,7 +77,7 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
 ![D-wolter GitHub stats](https://github-readme-stats.vercel.app/api?username=D-wolter&show_icons=true&theme=yeblu&bg_color=DEG,11a36a,0c7489&text_color=d7d9ce)
 <br>
  <br>
-**FreeTime** - 🎨 I’m Restorer of Art (restoration of sculptures and mosaics)  [🔗Art-Restorer-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Shield" />](https://www.facebook.com/profile.php?id=100064245002972).
+**FreeTime** - 🎨 I’m Restorer of Art (restoration of sculptures and mosaics)  [🔗Art-Restorer-Facebook](https://www.facebook.com/profile.php?id=100064245002972).
  ##
 
 
