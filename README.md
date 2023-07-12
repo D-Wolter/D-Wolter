@@ -35,6 +35,7 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Shield" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Shield" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Shield" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/Databases:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Databases" />
