@@ -42,7 +42,7 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Shield" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Shield" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Shield" />
-  <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequelize Shield" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/Styling:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Styling" />
