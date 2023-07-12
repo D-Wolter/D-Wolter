@@ -46,6 +46,8 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
   <img src="https://img.shields.io/badge/Styling:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Styling" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Shield" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Shield" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components Shield" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/Testing:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Testing" />
