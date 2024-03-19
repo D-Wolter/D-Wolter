@@ -90,7 +90,7 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
 
 
 
-
+{% comment %} 
 <div align="center">
   
 <h1 align="center">Main Projects</h1>
@@ -132,4 +132,4 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
     
   </tr>
 </table>
-
+{% endcomment %}
