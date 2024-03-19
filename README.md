@@ -90,46 +90,4 @@ Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Develop
 
 
 
-```
-<div align="center">
-  
-<h1 align="center">Main Projects</h1>
 
-<table>
-    <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://wolterwallet.vercel.app">App Trybe Wallet</a></h2>
-      <a href="https://wolterwallet.vercel.app"><img width="100%" src="./Images/wallet.png" alt="Project-Trybe-Wallet" /></a>
-      <br>
-      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
-      <h4><a href="https://github.com/D-Wolter/Projeto-Trybe-Wallet"><strong> Repository</strong> - App-Front-End - Trybe Wallet</a></h4>
-    </td>
-<td valign="top" width="50%">
-      <h2 align="center"><a href="https://taotaodoce.vercel.app">App Recipes Mobile</a></h2>
-      <a href="https://taotaodoce.vercel.app/"><img width="100%" src="./Images/doce.png" alt="Project-App-Recipes" /></a>
-      <br>
-      <p><em><strong> Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Bootstrap, JavaScript</em></p>
-      <h4><a href="https://github.com/D-Wolter/Projeto-Aplicativo-Receitas/"><strong> Repository</strong> - App-Front-End -  Recipes Mobile</a></h4>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://d-wolter-github-io.vercel.app//">Portfolio</a></h2>
-      <a href="https://d-wolter-github-io.vercel.app//"><img width="100%" src="./Images/Screenshot_13.png" alt="Portfólio" /></a>
-      <br>
-      <br>
-      <p><em><strong> Tools/Methodologies:</strong> HTML, CSS</em></p>
-      <h4><a href="https://github.com/D-Wolter/D-Wolter.github.io"><strong> Repository</strong> - My Personal Portfolio</a></h4>
-    </td>
-        <td valign="top" width="50%">
-      <h2 align="center"><a href="https://restaurante-arvoredo.vercel.app/">Restaurant Arvoredo Page</a></h2>
-      <a href="https://restaurante-arvoredo.vercel.app/"><img width="100%" src="./Images/arvoredo.png" alt="Restaurant-Arvoredo" /></a>
-      <br>
-      <br>
-      <p><em><strong> Tools/Methodologies:</strong> HTML, CSS</em></p>
-      <h4><a href="https://github.com/D-Wolter/Restaurante-Arvoredo"><strong> Repository</strong> - Restaurant Arvoredo Site</a></h4>
-    </td>
-    
-  </tr>
-</table>
-```
