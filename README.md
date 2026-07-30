@@ -1,5 +1,5 @@
 
-Desenvolvedor Full Stack | Java · Angular · Flutter
+#Desenvolvedor Full Stack | Java · Angular · Flutter#
 
 Desenvolvedor full-stack com experiência em manutenção e evolução de sistemas de grande porte, com foco em qualidade de entrega e consistência. Atuei por 2 anos na EasyMarine, plataforma SaaS para marinas, com mais de 430 merge requests entregues no último ano em múltiplos repositórios simultâneos.
 
