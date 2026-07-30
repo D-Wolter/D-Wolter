@@ -98,7 +98,7 @@ Projetos em destaque:
   
 
  <br>
-**FreeTime** - 🎨 I’m Restorer of Art (restoration of sculptures and mosaics)  [🔗Art-Restorer-Facebook](https://www.facebook.com/profile.php?id=100064245002972).
+**FreeTime** - 🎨 Sou restaurador de obras de arte no momentos livres, moldagem e réplicas de esculturas e mosaicos)  [🔗Art-Restorer-Facebook](https://www.facebook.com/profile.php?id=100064245002972).
  ##
 
 
