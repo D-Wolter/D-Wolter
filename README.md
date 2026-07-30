@@ -1,18 +1,28 @@
-
-#Desenvolvedor Full Stack | Java · Angular · Flutter#
+# Daniel Wolter — Desenvolvedor Full Stack | Java · Angular · Flutter
 
 Desenvolvedor full-stack com experiência em manutenção e evolução de sistemas de grande porte, com foco em qualidade de entrega e consistência. Atuei por 2 anos na EasyMarine, plataforma SaaS para marinas, com mais de 430 merge requests entregues no último ano em múltiplos repositórios simultâneos.
 
-Stack principal:
-Back-end — Java, Spring Boot, Node.js
-Front-end — Angular 19, ReactJS
-Mobile — Flutter
-Banco de dados — MySQL, Docker
-Metodologia — Scrum, Kanban, Git
+---
 
-Projetos em destaque:
-🔥 divina-chama — API Spring Boot para digitalização de formulário industrial de 1942, com banco MySQL em Docker e integração com Aiven Cloud
-🎵 buena-onda — (descrição breve do projeto)
+## 🛠️ Stack principal
+
+**Back-end** — Java, Spring Boot, Node.js  
+**Front-end** — Angular 19, ReactJS  
+**Mobile** — Flutter  
+**Banco de dados** — MySQL, PostgreSQL, Docker  
+**Metodologia** — Scrum, Kanban, Git  
+
+---
+
+## 🚀 Projetos em destaque
+
+**🔥 Divina Chama** — API Spring Boot para digitalização de formulário industrial de 1942.  
+Front-end hospedado na Vercel · Back-end na Render · Banco MySQL no Aiven Cloud  
+
+**🌊 Buena Onda Locadora** — Aplicação front-end para locadora de carros com CRUD de veículos, cadastro de clientes, login e agendamentos.  
+Front-end hospedado na Vercel · Banco de dados no Supabase  
+
+---
 
 📍 Florianópolis, SC — aberto a trabalho remoto
 📧 wolter.daniel@gmail.com
