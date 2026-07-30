@@ -104,7 +104,7 @@ Front-end hospedado na Vercel · Banco de dados no Supabase
 
 ##
 
-  <br />
+
   
 
  <br>
