@@ -1,5 +1,21 @@
 
-Hi, i’m **Daniel Wolter**, i'm from Florianópolis-Brazil, **Fullstack Developer Web**.
+Desenvolvedor Full Stack | Java · Angular · Flutter
+
+Desenvolvedor full-stack com experiência em manutenção e evolução de sistemas de grande porte, com foco em qualidade de entrega e consistência. Atuei por 2 anos na EasyMarine, plataforma SaaS para marinas, com mais de 430 merge requests entregues no último ano em múltiplos repositórios simultâneos.
+
+Stack principal:
+Back-end — Java, Spring Boot, Node.js
+Front-end — Angular 19, ReactJS
+Mobile — Flutter
+Banco de dados — MySQL, Docker
+Metodologia — Scrum, Kanban, Git
+
+Projetos em destaque:
+🔥 divina-chama — API Spring Boot para digitalização de formulário industrial de 1942, com banco MySQL em Docker e integração com Aiven Cloud
+🎵 buena-onda — (descrição breve do projeto)
+
+📍 Florianópolis, SC — aberto a trabalho remoto
+📧 wolter.daniel@gmail.com
 
 **LinkedIn🔗** 
 <a href="https://linkedin.com/in/dev-daniel-wolter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Daniel-Wolter" height="40" width="40" /></a>
