@@ -34,7 +34,7 @@ Front-end hospedado na Vercel · Banco de dados no Supabase
  <br>
 
 
-##
+---
 
 
 <!-- <h3> 🔧 Tech and tools that I know:<h3>
