@@ -37,7 +37,7 @@ Front-end hospedado na Vercel · Banco de dados no Supabase
 ##
 
 
-<h3> 🔧 Tech and tools that I know:<h3>
+<!-- <h3> 🔧 Tech and tools that I know:<h3>
 
 <span>
   <img src="https://img.shields.io/badge/Base:-E6E6E6?style=for-the-badge" alt="Base" />
@@ -98,7 +98,7 @@ Front-end hospedado na Vercel · Banco de dados no Supabase
 <span>
   <img src="https://img.shields.io/badge/ANY OTHER TOOL THAT I HAVE TO LEARN HOW TO USE, IF NEEDED TO SOLVE A PROBLEM-FFFF64?style=for-the-badge" alt="LEARNING SKILL" />
 </span>
-</br>
+</br> -->
  
 
 
