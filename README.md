@@ -101,12 +101,6 @@ Front-end hospedado na Vercel · Banco de dados no Supabase
 </br> -->
  
 
-
-##
-
-
-  
-
  <br>
 **FreeTime** - 🎨 Sou restaurador de obras de arte no momentos livres, moldagem e réplicas de esculturas e mosaicos)  [🔗Art-Restorer-Facebook](https://www.facebook.com/profile.php?id=100064245002972).
  ##
